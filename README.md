@@ -1,10 +1,10 @@
 # tutorial_smt
+
+
 Tutorial de como instalar o smt no seu computador
-
-
-
 Link para o site da SMT: https://github.com/Slazanger/SMT/releases 
-como configurar o smt
+
+Configurar
 Vá em 'file' depois em 'Preferences' e copie as configuraçoes das fotos abaixo'
 
 <img src="/img/smt-general.jpg">
